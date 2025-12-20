@@ -36,7 +36,7 @@ If you find our work helpful, please consider citing our paper:
 ```
 @inproceedings{yang2026deepfake,
   title     = {Your Deepfake Detector Can Secretly Achieve SOTA Accuracy, If Calibrated},
-  author    = author = {Yang, Muli and Goenawan, Gabriel James and Wang, Henan and Qin, Huaiyuan and Xu, Chenghao and Yang, Yanhua and Fang, Fen and Sun, Ying and Lim, Joo Hwee and Zhu, Hongyuan},
+  author    = {Yang, Muli and Goenawan, Gabriel James and Wang, Henan and Qin, Huaiyuan and Xu, Chenghao and Yang, Yanhua and Fang, Fen and Sun, Ying and Lim, Joo-Hwee and Zhu, Hongyuan},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   year      = {2026},
 }
